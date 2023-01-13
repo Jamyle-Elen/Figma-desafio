@@ -1,0 +1,11 @@
+green-600: #2D4A22
+green-500: #49AA26
+red-500: #E92929
+title: #363F5F
+green-600: #2D4A22
+green-500: #49AA26
+ukennedyuuu: quero
+red-500: #E92929
+body: #F0F2F5
+text: #969CB2
+title: #363F5F

@@ -1,0 +1,147 @@
+* {
+    margin: 0;padding: 0;box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: #e8ebf0;
+    width: 100vw;
+    height: 100vh;
+}
+
+header {
+    background: #2D4A22;
+    height: 150px;
+    text-align: center;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+header div .dev {
+    margin-bottom: 42px;
+}
+
+.all {
+    width: 100vw;
+    display: flex;
+
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.EST {
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 200px;
+    text-align: left;
+}
+
+.entradas {
+    background: #FFFFFF;
+    width: 280px;
+    padding: 15px;
+    color: #1b1b1b;
+}
+
+.entradas .valor {
+    color: #969CB3;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.entradas-1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+
+.saida {
+    background: #FFFFFF;
+    padding: 15px;
+    color: #1b1b1b;
+    width: 280px;
+}
+
+.saida .valor {
+    color: #969CB3;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.saida-1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+
+.total {
+    background: #49AA26;
+    padding: 15px;
+    color: #1b1b1b;
+    width: 280px;
+    height: 100px;
+}
+
+.total .valor {
+    color: #fff;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.total-1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+
+table {
+    width: 100vw;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding: 0px 200px;
+}
+
+thead {
+    color: #969CB3;
+    font-size: 12px;
+    padding: 50px;
+}
+
+tr {
+    height: 30px;
+}
+
+.info {
+    background: #fff;
+    text-align: center;
+}
+
+.subinfo {
+    text-align: left;
+    padding: 12px;
+    color: #1b1b1b;
+    font-size: 13px;
+}
+
+.red {
+    color: #E92929;
+    font-size: 13px;
+}
+
+.green {
+    color: #49AA26;
+    font-size: 13px;
+}
+
+.date {
+    font-size: 13px;
+    color: #969CB3;
+}
+
+@media screen and (max-width: 900px) {
+    
+}
